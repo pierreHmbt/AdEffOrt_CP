@@ -7,11 +7,11 @@ Code to run EffOrt and AdEffort from
 
 The repository contains:
 
-1) Effort_ICML.ipynd: code to use Effort
+1) Effort.ipynd: code to use Effort
 
-2) AdEffort_ICML.ipynd: code to use Ad-Effort
+2) AdEffort.ipynd: code to use Ad-Effort
 
-3) utils_ICML.ipynd: functions to run the code
+3) utils.ipynd: functions to run the code
 
 ## Requirements
 
