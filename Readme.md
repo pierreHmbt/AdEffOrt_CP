@@ -1,7 +1,7 @@
 # Conformal Prediction and Minimum Volume Sets
 
 Code to run EffOrt and AdEffort from 
-[On Volume Minimization in Conformal Regression - ICML 2025.](https://arxiv.org/abs/2502.09985) by Batiste Le Bars and Pierre Humbert.
+[On Volume Minimization in Conformal Regression (ICML 2025)](https://arxiv.org/abs/2502.09985) by Batiste Le Bars and Pierre Humbert.
 
 ## Container
 
